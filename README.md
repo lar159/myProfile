@@ -1,7 +1,7 @@
 
 # ¡Hola, soy Lucia! 👋 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 <br><br>
-Soy una estudiante de desarrollo Full Stack con pasión por aprender y explorar nuevas tecnologías. Soy de Argentina y estoy emocionada de compartir mi viaje en el mundo de la programación.
+Soy una estudiante de desarrollo Full Stack con pasión por aprender y explorar nuevas tecnologías. Soy de Argentina y estoy emocionada de compartir mi viaje en el mundo de la programación. 
 
 ## Sobre mí
 
