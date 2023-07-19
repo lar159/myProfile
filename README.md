@@ -28,13 +28,12 @@ Soy una estudiante de desarrollo Full Stack con pasión por aprender y explorar 
 Si deseas conectarte conmigo, puedes encontrarme en:
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-anabel-rivadeneira-b66078283/)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luu.rivadeneira@gmail.com)
   
 </div>
 
-- Email: [tudirecciondecorreo@example.com](luu.rivadeneira@gmail.com)
+- Email: [luu.rivadeneira@gmail.com](https://mail.google.com/mail/)
 - LinkedIn: [https://www.linkedin.com/in/lucia-anabel-rivadeneira-b66078283/](https://www.linkedin.com/in/tu-perfil-de-LinkedIn)
 
 ¡No dudes en contactarme si tienes alguna pregunta, oportunidad de colaboración o simplemente quieres charlar sobre desarrollo web o cualquier cosa relacionada con la programación!
